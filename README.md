@@ -52,10 +52,40 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by:KANAGAVEL.R
 
-**RTL Schematic**
+RegisterNumber:212223040085
 
-**Output/TIMING Waveform**
+**CODE**
+
+**HALF ADDER**
+
+![Screenshot 2024-04-03 101248](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/7af24390-eefa-4c78-ab0c-cbd6cf5de238)
+
+**HALF SUBTRACTER**
+
+![Screenshot 2024-04-03 101336](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/0f404b2d-f2d4-460e-8a6a-deb23bff7dcd)
+
+**RTL SCHEMATIC**
+
+**HALF ADDER**
+
+![Screenshot 2024-04-03 101510](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/17fbbfff-29ce-4fb7-b286-5dde85a4866f)
+
+**HALF SUBTRACTER**
+
+![Screenshot 2024-04-03 101545](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/1b1538e3-053f-4f13-b075-1d7b8cbeec15)
+
+**OUTPUT/TIMING WAVEFORM**
+
+**HALF ADDER**
+
+![Screenshot 2024-04-03 101707](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/27666525-9743-4909-be91-ed5f45bf97de)
+
+**HALF SUBTRACTER**
+
+![Screenshot 2024-04-03 101749](https://github.com/kanagavel7/HALF_ADDER_SUBTRACTOR/assets/162578954/62c1f0b9-243c-4f6b-9bf7-78fed91d5aaa)
 
 **Result:**
+
+Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
